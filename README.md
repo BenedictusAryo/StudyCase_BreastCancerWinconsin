@@ -55,7 +55,7 @@ df.head()
 
 
 
-<div>
+<div markdown="1">
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -245,7 +245,7 @@ df.describe()
 
 
 
-<div>
+<div markdown="1">
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -691,7 +691,7 @@ score_table
 
 
 
-<div>
+<div markdown="1">
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
